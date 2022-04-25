@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <a href="https://github.com/magalhaesm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=magalhaesm&show_icons=true&theme=github_dark&border_radius=8%"/>
@@ -27,4 +28,3 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
 </div>
-  
