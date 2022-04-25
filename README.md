@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 </div>
 
  ##
- 
+<!-- 
 <div style="display: inline_block; align: center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
 </div>
+-->
