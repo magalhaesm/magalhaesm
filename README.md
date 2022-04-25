@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://github.com/juniatech">
+  <a href="https://github.com/magalhaesm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=magalhaesm&show_icons=true&theme=github_dark&border_radius=8%"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaesm&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
 </div>
