@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magalhaesm&color=brightgreen" alt="Profile views" /> </p>
 ### Hi there 👋
 
 <!--
