@@ -1,31 +1,16 @@
-### Hi there 👋
+<img src="https://github.com/magalhaesm/magalhaesm/assets/32808884/45853f8a-5ec1-4fce-a005-ddd3983d0fd5" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-<!--
-**magalhaesm/magalhaesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <h3><b>Hey, I'm Marcelo!</b></h3>
+  Feel free to explore my repos and maybe even contribute.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+- 👀 I’m interested in Backend Development and Machine Learning
+  
+- 🌱 I’m currently learning **C, C++ and Golang**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me marcelomagalhaes@protonmail.com
+</p>
 
-<div align="center">
-  <a href="https://github.com/magalhaesm">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=magalhaesm&show_icons=true&theme=github_dark&border_radius=8%"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaesm&layout=compact&langs_count=8&theme=github_dark&border_radius=8%"/>
-</div>
-
- ##
-<!-- 
-<div style="display: inline_block; align: center"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
-</div>
--->
+Lately I've been playing with Real-Time Rendering.
