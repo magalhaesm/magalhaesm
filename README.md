@@ -16,7 +16,7 @@
 
 Lately I've been playing with Real-Time Rendering.
 
-<br>
+<br><br>
 
 <p align="left">
 	  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaesm&layout=compact&show_icons=true&theme=dark" />
