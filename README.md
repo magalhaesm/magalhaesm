@@ -14,8 +14,6 @@
 - 📫 How to reach me: marcelomagalhaes@protonmail.com
 </p>
 
-Lately I've been playing with Real-Time Rendering.
-
 <br>
 
 ---
